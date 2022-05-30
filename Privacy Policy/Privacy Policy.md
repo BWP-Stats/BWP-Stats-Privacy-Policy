@@ -20,7 +20,7 @@
 <h3 id="data-collection"> What data do we collect? </h3>
 
 We do not collect personally identifiable information.\
-We may store [Discord](https://discord.com/) user IDs and [Minecraft](https://minecaft.net/) UUIDs if you decide to register them with the bot
+We may store [Discord](https://discord.com/) user IDs and [Minecraft](https://minecraft.net/) UUIDs if you decide to register them with the bot
 
 <h3 id="data-collect-length"> How long will we store data for? </h3>
 
