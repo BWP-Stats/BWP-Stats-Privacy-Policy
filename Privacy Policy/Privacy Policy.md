@@ -13,7 +13,7 @@
 
 <h2></h2>  
 
-**Last updated and effective: May 25, 2022**
+**Last updated and effective: June 26, 2023**
 
 <h2 id="policy"> Privacy Policy </h2>
 
@@ -50,4 +50,4 @@ If you have any further questions please contact us via our [discord support ser
 You can contact us via the following methods:
 
 - [Discord Support Server](https://discord.gg/fBnfWXSDpu)
-- Email (contact.bwpstats@gmail.com) (Checked weekly)
+- Email (contact.bwpstats@gmail.com) (Checked bi-weekly)
